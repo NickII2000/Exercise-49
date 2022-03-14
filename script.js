@@ -12,3 +12,4 @@ function calcOrDouble(number, basis = 2) {
 }
 calcOrDouble(3, 15);
 calcOrDouble(3);
+calcOrDouble(10);
